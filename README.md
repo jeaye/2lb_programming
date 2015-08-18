@@ -33,6 +33,7 @@ Treat others as you would like to be treated yourself, be civilized. Don't agree
   * No discussions about religion
   * Political discussions are permitted, assuming no other rules are broken
   * Piracy discussions are permitted until people recommend others engage in it
+    * Saying you're pirating or are going to pirate is advocating pirating
   * No unpaid do-my-homework/do-it-for-me requests and no spoon-feeding
   * No trying to hire developers while providing no information until they say yes
   * No unmerited mindless comments
