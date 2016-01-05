@@ -8,7 +8,7 @@ These are the rules for ##programming on Freenode; by all means, ignore them, ju
 ## Recent changes
 In recent times, there has been an increase in the number of troublesome users, thus the channel is slightly more restricted:
 
-  * Religion and political debates are now out of bounds
+  * Religious and political debates are now out of bounds
 
 ## Keep in mind
 Treat others as you would like to be treated yourself, be civilized. Don't agree with someone? Convey your point across in a civilized manner. There's no need for insults. English is the primary and preferred language for communication. Other languages will only be tolerated up to a point. See Freenode's [catalyst reference](https://freenode.net/catalysts.shtml).
