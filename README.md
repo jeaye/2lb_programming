@@ -29,7 +29,7 @@ Treat others as you would like to be treated yourself, be civilized. Don't agree
   * [Don't ask if you can ask your question, just ask](http://catb.org/~esr/faqs/smart-questions.html)
   * No trash-talking
   * No bigotry; remember that others may not be as knowledgable as you are
-  * No discussions about religion or politic
+  * No discussions about religion or politics
   * Piracy discussions are permitted until people recommend others engage in it
   * No unpaid do-my-homework/do-it-for-me requests and no spoon-feeding
   * No trying to hire developers while providing no information until they say yes
