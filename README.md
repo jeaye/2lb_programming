@@ -22,7 +22,7 @@ Treat others as you would like to be treated yourself, be civilized. Don't agree
   * No flooding
     * No automated messages; ex. anti-idle scripts, away/mp3 notifications, etc.
     * No unauthorized bots, public loggers or related activities
-    * Paste text > 3 lines to a site such as http://ideone.com or http://hastebin.com
+    * Paste text > 2 lines to a site such as http://ideone.com or http://hastebin.com
 
 ## \#\#programming specific rules
 
