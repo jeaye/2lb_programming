@@ -39,7 +39,7 @@ Treat others as you would like to be treated yourself, be civilized. Don't agree
   * No discussion of moderation issues in ##programming; /join ##programming-ops
 
 ## Blocked gateways
-\#\#programming blocks all major gateways that don't belong to Freenode, primarily due to ban evasion; historically, some were also banned for severe privacy violations. People are free to join the channel via Freenode's [web gateway](https://webchat.freenode.net) or the [Tor gateway](https://freenode.net/irc_servers.shtml#tor).
+\#\#programming blocks all major gateways that don't belong to Freenode, primarily due to ban evasion; historically, some were also banned for severe privacy violations. People are free to join the channel via Freenode's [web gateway](https://webchat.freenode.net) or the [Tor gateway](https://freenode.net/kb/answer/chat#accessing-freenode-via-tor).
 
 ## Where to get help
 If you want to discuss an issue, join ##programming-ops and speak in a civilized manner. Freenode staff, for a long time, have taken the back seat, with regard to channel moderation issues, and simply tell you to contact an op. Joining the Freenode support channel to whine about the situation won't end with Freenode staff reversing your punishment.
